@@ -1,0 +1,2 @@
+# Traffic-management-system
+Design of an uninterrupted traffic flow system at the traffic junctions without must expect others will result in minimize severe hold up and in few situations when there are emergency cases such as ambulance there need to something so that it doesn't take the life of the injured. To counter these i have proposed a traffic flow system at the junctions to create the flow of traffic streams an streamline flow as possible. This may also result in design of a stoplight and traffic police free system at the junctions of urban traffic roads.
